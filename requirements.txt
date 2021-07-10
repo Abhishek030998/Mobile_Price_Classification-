@@ -37,11 +37,13 @@ scikit-learn==0.24.2
 scipy==1.7.0
 seaborn==0.11.1
 Send2Trash==1.7.1
+sip==5.0.0
 sklearn==0.0
 sniffio==1.2.0
 terminado==0.10.1
 testpath==0.5.0
 threadpoolctl==2.1.0
+toml==0.10.2
 urllib3==1.26.6
 webencodings==0.5.1
 websocket-client==1.1.0
@@ -49,4 +51,3 @@ Werkzeug==2.0.1
 widgetsnbextension==3.5.1
 wincertstore==0.2
 xgboost==1.4.2
-
